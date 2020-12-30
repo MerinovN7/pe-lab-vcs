@@ -1,2 +1,4 @@
-if __name__ == '__main__':
-pass
+a = int(input())
+b = int(input())
+s = a - b
+print(s)
